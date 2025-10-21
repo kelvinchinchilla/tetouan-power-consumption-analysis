@@ -26,7 +26,7 @@ The project was developed in a Python notebook and followed these steps:
 
 ### Visual Analysis
 
-
+![Temperature vs Consumption Graph](grafico_temp_consumo.png)
 
 
 ### Model Evaluation
